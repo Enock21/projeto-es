@@ -1,7 +1,7 @@
 # projeto-es
 Repositório destinado ao desenvolvimento do projeto para a disciplina Engenharia de Software
 
-##**LINKS ÚTEIS**
+## **LINKS ÚTEIS**
 
 [Informações dos Membros do Grupo](https://docs.google.com/document/d/1INYuAM-4k_vKK2dD0WRZ5fJyDysNxUSFFz_EV4bu-m0/edit?usp=sharing)
 
