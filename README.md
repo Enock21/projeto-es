@@ -3,6 +3,8 @@ Repositório destinado ao desenvolvimento do projeto para a disciplina Engenhari
 
 ## **Links Úteis**
 
+[Template para a Documentação do Projeto](https://docs.google.com/document/d/1THUEBk5FL6XcKnNXW0z9-4OlS4BlTzPkdwfZkkNxGNU/edit?usp=sharing)
+
 [Informações dos Membros do Grupo](https://docs.google.com/document/d/1INYuAM-4k_vKK2dD0WRZ5fJyDysNxUSFFz_EV4bu-m0/edit?usp=sharing)
 
 [Cronograma de Atividades](https://docs.google.com/spreadsheets/d/1uDPbEInaaH1daeGSwhPUX80kdbE-K2YrqoIniinhyzA/edit?usp=sharing)
