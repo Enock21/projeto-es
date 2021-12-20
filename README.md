@@ -13,7 +13,7 @@ Repositório destinado ao desenvolvimento do projeto para a disciplina Engenhari
 
 [Template Oficial para o Fichamento](https://docs.google.com/document/d/1gs_pbLi1JwhKRhe90XPGxTZ2EF_FmMJb/edit?usp=sharing&ouid=102464683378953571049&rtpof=true&sd=true)
 
-[Repositório do Hybernate (projeto real)](https://github.com/hibernate)
+[Repositório do Hybernate (projeto real)](https://github.com/hibernate/hibernate-orm)
 
 ## **Links Para os Fichamentos (Separados por Artigo)**
 
