@@ -3,6 +3,8 @@ Repositório destinado ao desenvolvimento do projeto para a disciplina Engenhari
 
 ## **Links Úteis**
 
+[Proposta para o Projeto Novo](https://docs.google.com/presentation/d/1Non0-QWdjFVBYx8G--LW4HwjRJ2iW8V9R7tmwsJ_mRQ/edit?usp=sharing)
+
 [Template para a Documentação do Projeto](https://docs.google.com/document/d/1THUEBk5FL6XcKnNXW0z9-4OlS4BlTzPkdwfZkkNxGNU/edit?usp=sharing)
 
 [Informações dos Membros do Grupo](https://docs.google.com/document/d/1INYuAM-4k_vKK2dD0WRZ5fJyDysNxUSFFz_EV4bu-m0/edit?usp=sharing)
