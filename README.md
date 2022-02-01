@@ -22,3 +22,5 @@ Repositório destinado ao desenvolvimento do projeto para a disciplina Engenhari
 [Enock Bezerra Ferreira de Souza - What Serverless Computing Is and Should Become: The Next Phase of Cloud Computing](https://docs.google.com/document/d/1AI3VvErU6kzkgqcV3sT-2op75rvw9j4y/edit?usp=sharing&ouid=102464683378953571049&rtpof=true&sd=true)
 
 [Enock Bezerra Ferreira de Souza - Implementing Insider Defenses](https://docs.google.com/document/d/1PUVuK8JSZy4cF6QpydY-N50lNDDl1SmD/edit?usp=sharing&ouid=102464683378953571049&rtpof=true&sd=true)
+
+[Thiago Farias de Almeida - Behold the Ch!Ld](https://docs.google.com/document/d/1rOSrte8SrQLvZgNonJSv_QcFNdcy-j4DjzB6Yk6a1s4/edit?usp=sharing)
