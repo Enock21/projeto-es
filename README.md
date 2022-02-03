@@ -3,6 +3,8 @@ Repositório destinado ao desenvolvimento do projeto para a disciplina Engenhari
 
 ## **Links Úteis**
 
+[Divisão de Grupos - Proj. Novo e Real](https://docs.google.com/document/d/17BYu6AmB-rQEgs-WvWNV__LLZoUNJNItagYPPAGmSeE/edit?usp=sharing)
+
 [Proposta para o Projeto Novo](https://docs.google.com/presentation/d/1Non0-QWdjFVBYx8G--LW4HwjRJ2iW8V9R7tmwsJ_mRQ/edit?usp=sharing)
 
 [Template para a Documentação do Projeto](https://docs.google.com/document/d/1THUEBk5FL6XcKnNXW0z9-4OlS4BlTzPkdwfZkkNxGNU/edit?usp=sharing)
