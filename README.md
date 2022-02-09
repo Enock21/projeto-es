@@ -36,3 +36,5 @@ Um protótipo foi feito em outro repositório para testar a viabilidade do desen
 [Enock Bezerra Ferreira de Souza - Implementing Insider Defenses](https://docs.google.com/document/d/1PUVuK8JSZy4cF6QpydY-N50lNDDl1SmD/edit?usp=sharing&ouid=102464683378953571049&rtpof=true&sd=true)
 
 [Thiago Farias de Almeida - Behold the Ch!Ld](https://docs.google.com/document/d/1rOSrte8SrQLvZgNonJSv_QcFNdcy-j4DjzB6Yk6a1s4/edit?usp=sharing)
+
+[José Matheus do Nascimento Gama - Battery Day](https://docs.google.com/document/d/1S0APaRUowmpgTm0CCHAT5lUTgbn9bfPl/edit?usp=sharing&ouid=111066760870567253661&rtpof=true&sd=true)
