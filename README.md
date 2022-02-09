@@ -1,6 +1,11 @@
 # projeto-es
 Repositório destinado ao desenvolvimento do projeto para a disciplina Engenharia de Software
 
+## **Protótipo**
+
+Um protótipo foi feito em outro repositório para testar a viabilidade do desenvolvimento colaborativo em Unity. Segue o link:
+[Prototipo inicial](https://github.com/Enock21/UnityCoopTest)
+
 ## **Links Úteis**
 
 [Divisão de Grupos - Proj. Novo e Real](https://docs.google.com/document/d/17BYu6AmB-rQEgs-WvWNV__LLZoUNJNItagYPPAGmSeE/edit?usp=sharing)
