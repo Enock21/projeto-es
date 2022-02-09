@@ -3,7 +3,8 @@ Repositório destinado ao desenvolvimento do projeto para a disciplina Engenhari
 
 ## **Protótipo**
 
-Um protótipo foi feito em outro repositório para testar a viabilidade do desenvolvimento colaborativo em Unity. Segue o link:\n
+Um protótipo foi feito em outro repositório para testar a viabilidade do desenvolvimento colaborativo em Unity. Segue o link:
+
 [Prototipo inicial](https://github.com/Enock21/UnityCoopTest)
 
 ## **Links Úteis**
