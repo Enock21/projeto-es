@@ -1,6 +1,10 @@
 # projeto-es
 Repositório destinado ao desenvolvimento do projeto para a disciplina Engenharia de Software
 
+## **Documentação Oficial**
+
+(Documentação)()
+
 ## **Protótipo**
 
 Um protótipo foi feito em outro repositório para testar a viabilidade do desenvolvimento colaborativo em Unity. Segue o link:
