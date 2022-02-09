@@ -3,7 +3,7 @@ Repositório destinado ao desenvolvimento do projeto para a disciplina Engenhari
 
 ## **Documentação Oficial**
 
-(Documentação)()
+[Documentação](https://docs.google.com/document/d/1McA49Q3K77XjxbCtUVEMMZEUFh6k-euATzTBVZIw3lk/edit?usp=sharing)
 
 ## **Protótipo**
 
