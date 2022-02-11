@@ -38,3 +38,7 @@ Um protótipo foi feito em outro repositório para testar a viabilidade do desen
 [Thiago Farias de Almeida - Behold the Ch!Ld](https://docs.google.com/document/d/1rOSrte8SrQLvZgNonJSv_QcFNdcy-j4DjzB6Yk6a1s4/edit?usp=sharing)
 
 [José Matheus do Nascimento Gama - Battery Day](https://docs.google.com/document/d/1S0APaRUowmpgTm0CCHAT5lUTgbn9bfPl/edit?usp=sharing&ouid=111066760870567253661&rtpof=true&sd=true)
+
+[Vinicius Rodrigues Pacheco de Lima - Robustness Meets Algorithms](https://docs.google.com/document/d/1niD4GBmgrqfZXE0EGKOk6Fbe59mxJFFrT2n7e0nOWz4/edit?usp=sharing)
+
+[Vinicius Rodrigues Pacheco de Lima - Let's Be Honest](https://docs.google.com/document/d/1Se1CQtDHEmAowC48v3jtSkaEHzGDJqxA3XRhsjjx4Ss/edit?usp=sharing)
