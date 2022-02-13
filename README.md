@@ -42,3 +42,7 @@ Um protótipo foi feito em outro repositório para testar a viabilidade do desen
 [Vinicius Rodrigues Pacheco de Lima - Robustness Meets Algorithms](https://docs.google.com/document/d/1niD4GBmgrqfZXE0EGKOk6Fbe59mxJFFrT2n7e0nOWz4/edit?usp=sharing)
 
 [Vinicius Rodrigues Pacheco de Lima - Let's Be Honest](https://docs.google.com/document/d/1Se1CQtDHEmAowC48v3jtSkaEHzGDJqxA3XRhsjjx4Ss/edit?usp=sharing)
+
+[Willy Guimarães M. Barros - In Response to 'Vardi's Insights'](https://docs.google.com/document/d/14hc9Far8GW9K5BA5XwxK87koNFLWDXa_4IcVHfAZToY/edit?usp=sharing)
+
+[Willy Guimarães M. Barros - Promote Sustainability and Help Underserved Communities](https://docs.google.com/document/d/12ZaxlRDBf8FRl7ifXkzLRG_kjxXrLnadBK4lN7AbFjs/edit?usp=sharing)
