@@ -39,6 +39,8 @@ Um protótipo foi feito em outro repositório para testar a viabilidade do desen
 
 [José Matheus do Nascimento Gama - Battery Day](https://docs.google.com/document/d/1S0APaRUowmpgTm0CCHAT5lUTgbn9bfPl/edit?usp=sharing&ouid=111066760870567253661&rtpof=true&sd=true)
 
+[José Matheus do Nascimento Gama - HCDA: From Computational Thinking to a Generalized Thinking Paradigm](https://docs.google.com/document/d/1MGx7BDHxuK1f4cM8UWShtZSbn_Zg6TZX/edit?usp=sharing&ouid=111066760870567253661&rtpof=true&sd=true)
+
 [Vinicius Rodrigues Pacheco de Lima - Robustness Meets Algorithms](https://docs.google.com/document/d/1niD4GBmgrqfZXE0EGKOk6Fbe59mxJFFrT2n7e0nOWz4/edit?usp=sharing)
 
 [Vinicius Rodrigues Pacheco de Lima - Let's Be Honest](https://docs.google.com/document/d/1Se1CQtDHEmAowC48v3jtSkaEHzGDJqxA3XRhsjjx4Ss/edit?usp=sharing)
