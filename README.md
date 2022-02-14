@@ -13,6 +13,8 @@ Um protótipo foi feito em outro repositório para testar a viabilidade do desen
 
 ## **Links Úteis**
 
+[Planilha de Divisão de Trabalho (Segunda Entrega)](https://docs.google.com/spreadsheets/d/18Ya9i64hYMa0a4w7KkCX_1j7VzmCczlZ1iPzhJSgZ1o/edit?usp=sharing)
+
 [Divisão de Grupos - Proj. Novo e Real](https://docs.google.com/document/d/17BYu6AmB-rQEgs-WvWNV__LLZoUNJNItagYPPAGmSeE/edit?usp=sharing)
 
 [Proposta para o Projeto Novo](https://docs.google.com/presentation/d/1Non0-QWdjFVBYx8G--LW4HwjRJ2iW8V9R7tmwsJ_mRQ/edit?usp=sharing)
