@@ -50,3 +50,5 @@ Um protótipo foi feito em outro repositório para testar a viabilidade do desen
 [Willy Guimarães M. Barros - Promote Sustainability and Help Underserved Communities](https://docs.google.com/document/d/12ZaxlRDBf8FRl7ifXkzLRG_kjxXrLnadBK4lN7AbFjs/edit?usp=sharing)
 
 [Arthur Dantas Porto - Technical Perspective: Robust Statistics Tackle New Problems](https://docs.google.com/document/d/1FwVNfoiIlEv5Sa4hLdqp9fJgMUrnW37N/edit?usp=sharing&ouid=107759173386355636632&rtpof=true&sd=true)
+
+[Raphael Henrique de Lucena Agra - Teaching Other Teachers How to Teach CS Better](https://docs.google.com/document/d/1DXgqFBGHa9_jE_rIN-LFHm6ljXY7ifDjXFJDFDvKIho/edit?usp=sharing)
