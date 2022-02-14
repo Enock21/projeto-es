@@ -54,3 +54,7 @@ Um protótipo foi feito em outro repositório para testar a viabilidade do desen
 [Arthur Dantas Porto - Technical Perspective: Robust Statistics Tackle New Problems](https://docs.google.com/document/d/1FwVNfoiIlEv5Sa4hLdqp9fJgMUrnW37N/edit?usp=sharing&ouid=107759173386355636632&rtpof=true&sd=true)
 
 [Raphael Henrique de Lucena Agra - Teaching Other Teachers How to Teach CS Better](https://docs.google.com/document/d/1DXgqFBGHa9_jE_rIN-LFHm6ljXY7ifDjXFJDFDvKIho/edit?usp=sharing)
+
+[Walisson Nascimento de Farias - Software Professionals, Malpractice Law, and Codes of Ethics] (https://docs.google.com/document/d/13giA03J9v0yrUHTxR-UOrgfVaKVLVpLtC1iXs_dv31I/edit?usp=sharing)
+
+[Walisson Nascimento de Farias - The Agency Trilemma and ACM] (https://docs.google.com/document/d/1PvmuUCW-QyxgVSiEEWFcWndEv8WLgfBeODU1vX4SfTQ/edit?usp=sharing)
