@@ -55,7 +55,7 @@ Um protótipo foi feito em outro repositório para testar a viabilidade do desen
 
 [Raphael Henrique de Lucena Agra - Teaching Other Teachers How to Teach CS Better](https://docs.google.com/document/d/1DXgqFBGHa9_jE_rIN-LFHm6ljXY7ifDjXFJDFDvKIho/edit?usp=sharing)
 
-[Raphael Henrique de Lucena Agra - ](https://docs.google.com/document/d/1-gVfzSbracj4SUkluq8SbNKPQY7a1iKMIgVsysz_hYU/edit?usp=sharing)
+[Raphael Henrique de Lucena Agra - Understanding Law and the Rule of Law: A Plea to Augment CS Curricula](https://docs.google.com/document/d/1-gVfzSbracj4SUkluq8SbNKPQY7a1iKMIgVsysz_hYU/edit?usp=sharing)
 
 [Walisson Nascimento de Farias - Software Professionals, Malpractice Law, and Codes of Ethics](https://docs.google.com/document/d/13giA03J9v0yrUHTxR-UOrgfVaKVLVpLtC1iXs_dv31I/edit?usp=sharing)
 
