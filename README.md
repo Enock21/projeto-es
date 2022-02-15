@@ -58,3 +58,8 @@ Um protótipo foi feito em outro repositório para testar a viabilidade do desen
 [Walisson Nascimento de Farias - Software Professionals, Malpractice Law, and Codes of Ethics](https://docs.google.com/document/d/13giA03J9v0yrUHTxR-UOrgfVaKVLVpLtC1iXs_dv31I/edit?usp=sharing)
 
 [Walisson Nascimento de Farias - The Agency Trilemma and ACM](https://docs.google.com/document/d/1PvmuUCW-QyxgVSiEEWFcWndEv8WLgfBeODU1vX4SfTQ/edit?usp=sharing)
+
+[Henrique Lopes Nóbrega - A Traffic Cop For Low Earth Orbit](https://docs.google.com/document/d/15eYzu8IV0MQ2Zt6J6odQiQ4jrMmc60W4o0B5nOzubhA/edit?usp=sharing)
+
+[Henrique Lopes Nóbrega - Trustworthy Scientific Computing](https://docs.google.com/document/d/1eNcgFv-Khw1LYcgCvyZv5boTsdIhtElnDlqeLnGP6yM/edit?usp=sharing)
+
