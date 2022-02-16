@@ -65,3 +65,6 @@ Um protótipo foi feito em outro repositório para testar a viabilidade do desen
 
 [Henrique Lopes Nóbrega - Trustworthy Scientific Computing](https://docs.google.com/document/d/1eNcgFv-Khw1LYcgCvyZv5boTsdIhtElnDlqeLnGP6yM/edit?usp=sharing)
 
+[Victor Paiva dos Santos - A Satisfying Result](https://docs.google.com/document/d/1LJBythixVtMVqfuwewzNILNQzlorkUybENiWNE-vOH8/edit?usp=sharing)
+
+[Victor Paiva dos Santos -  Isomorphism, Canonization, and Definability for Graphs of Bounded Rank Width](https://docs.google.com/document/d/1IMTAwOmwSo7q3J0-R2th5zQVETK_LkTllsI61LHuo24/edit?usp=sharing)
