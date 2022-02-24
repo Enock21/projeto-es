@@ -11,6 +11,9 @@ Um protótipo foi feito em outro repositório para testar a viabilidade do desen
 
 [Prototipo inicial](https://github.com/Enock21/UnityCoopTest)
 
+## **Fichamentos (todos)**
+[Fichamentos](https://docs.google.com/document/d/1EWz8aOomydyGSFW8d42qT-_fGRShuomHu9sxieDauVI/edit?usp=sharing)
+
 ## **Links Úteis**
 
 [Divisão de Trabalho (2a Entrega) - Proj Novo](https://docs.google.com/spreadsheets/d/18Ya9i64hYMa0a4w7KkCX_1j7VzmCczlZ1iPzhJSgZ1o/edit?usp=sharing)
