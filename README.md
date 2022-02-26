@@ -28,7 +28,9 @@ Um protótipo foi feito em outro repositório para testar a viabilidade do desen
 
 [Informações dos Membros do Grupo](https://docs.google.com/document/d/1INYuAM-4k_vKK2dD0WRZ5fJyDysNxUSFFz_EV4bu-m0/edit?usp=sharing)
 
-[Cronograma de Atividades](https://drive.google.com/file/d/1DjED2QFURwn8YWFhITk4OToEbaEOhqzC/view?usp=sharing)
+[Cronograma de Atividades do Projeto Novo](https://drive.google.com/file/d/1DjED2QFURwn8YWFhITk4OToEbaEOhqzC/view?usp=sharing)
+
+[Cronograma de Atividades do Projeto Real](https://drive.google.com/file/d/1K_1fAiEcP0F7SNk3_DfSSwPYxEK6gZVX/view?usp=sharing)
 
 [Distribuição de Temas do Fichamento](https://docs.google.com/spreadsheets/d/1uxlZhuqBmygBuW_ffA-c_Un_E0AB1q_GO3wtApXOUDs/edit?usp=sharing)
 
