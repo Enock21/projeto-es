@@ -75,3 +75,7 @@ Um protótipo foi feito em outro repositório para testar a viabilidade do desen
 [Victor Paiva dos Santos - A Satisfying Result](https://docs.google.com/document/d/1LJBythixVtMVqfuwewzNILNQzlorkUybENiWNE-vOH8/edit?usp=sharing)
 
 [Victor Paiva dos Santos -  Isomorphism, Canonization, and Definability for Graphs of Bounded Rank Width](https://docs.google.com/document/d/1IMTAwOmwSo7q3J0-R2th5zQVETK_LkTllsI61LHuo24/edit?usp=sharing)
+
+[José Alisson Araújo Pordeus - Pegando as falsificações](https://docs.google.com/document/d/1yY7QRawM0F4kqCosx--n6sRFP-3_asya)
+
+[José Alisson Araújo Pordeus - Teorias de módulos de autômatos](https://docs.google.com/document/d/1UZfAsws8cctuh4QH3Fxz9OIwJnY8Wxxt)
