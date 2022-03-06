@@ -79,3 +79,5 @@ Um protótipo foi feito em outro repositório para testar a viabilidade do desen
 [José Alisson Araújo Pordeus - Pegando as falsificações](https://docs.google.com/document/d/1yY7QRawM0F4kqCosx--n6sRFP-3_asya)
 
 [José Alisson Araújo Pordeus - Teorias de módulos de autômatos](https://docs.google.com/document/d/1UZfAsws8cctuh4QH3Fxz9OIwJnY8Wxxt)
+
+[Gustavo Adolfo Di Pace Tejo Filho - Technical Perspective: A Logical Step Toward the Graph Isomorphism Problem](https://docs.google.com/document/d/17CDO70lC5sGzjQUh0A6ehJIy5dRIKstfvt1hqL7eJkY)
