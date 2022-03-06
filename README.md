@@ -60,6 +60,8 @@ Um protótipo foi feito em outro repositório para testar a viabilidade do desen
 
 [Arthur Dantas Porto - Technical Perspective: Robust Statistics Tackle New Problems](https://docs.google.com/document/d/1FwVNfoiIlEv5Sa4hLdqp9fJgMUrnW37N/edit?usp=sharing&ouid=107759173386355636632&rtpof=true&sd=true)
 
+[Arthur Dantas Porto - Enclaves in the Clouds](https://docs.google.com/document/d/112QrhBTv4pB6biudMiILC4VEg5X8UpWI/edit?usp=sharing&ouid=107759173386355636632&rtpof=true&sd=true)
+
 [Raphael Henrique de Lucena Agra - Teaching Other Teachers How to Teach CS Better](https://docs.google.com/document/d/1DXgqFBGHa9_jE_rIN-LFHm6ljXY7ifDjXFJDFDvKIho/edit?usp=sharing)
 
 [Raphael Henrique de Lucena Agra - Understanding Law and the Rule of Law: A Plea to Augment CS Curricula](https://docs.google.com/document/d/1-gVfzSbracj4SUkluq8SbNKPQY7a1iKMIgVsysz_hYU/edit?usp=sharing)
