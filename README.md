@@ -36,7 +36,7 @@ Um protótipo foi feito em outro repositório para testar a viabilidade do desen
 
 [Template Oficial para o Fichamento](https://docs.google.com/document/d/1gs_pbLi1JwhKRhe90XPGxTZ2EF_FmMJb/edit?usp=sharing&ouid=102464683378953571049&rtpof=true&sd=true)
 
-[Repositório do Hibernate (projeto real)](https://github.com/hibernate/hibernate-orm)
+[Repositório do CK (projeto real)](https://github.com/mauricioaniche/ck)
 
 ## **Links Para os Fichamentos (Separados por Artigo)**
 
