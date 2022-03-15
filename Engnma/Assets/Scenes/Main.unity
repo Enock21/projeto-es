@@ -642,7 +642,6 @@ GameObject:
   - component: {fileID: 155043738}
   - component: {fileID: 155043740}
   - component: {fileID: 155043742}
-  - component: {fileID: 155043741}
   m_Layer: 9
   m_Name: NPC_0
   m_TagString: Untagged
@@ -734,32 +733,6 @@ MonoBehaviour:
   isActiveMove_X: 1
   isActiveMove_Y: 1
   isActiveTurn: 1
---- !u!114 &155043741
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 155043737}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 214f4066b78529c44bdc1560f44820e7, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  filter:
-    useTriggers: 0
-    useLayerMask: 0
-    useDepth: 0
-    useOutsideDepth: 0
-    useNormalAngle: 0
-    useOutsideNormalAngle: 0
-    layerMask:
-      serializedVersion: 2
-      m_Bits: 0
-    minDepth: 0
-    maxDepth: 0
-    minNormalAngle: 0
-    maxNormalAngle: 0
 --- !u!61 &155043742
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -770,7 +743,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0.028969765, y: -0.2713479}
