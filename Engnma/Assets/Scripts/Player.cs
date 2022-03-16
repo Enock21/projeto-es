@@ -103,9 +103,10 @@ public class Player : MonoBehaviour
             //Adiciona o scrKeyboardInteractable do parent do objeto do collider para a lista de colliders em que o player invadiu.
             //Após isso, é printado o nome do collider assim como o nome do parent
             Scr_KeyboardInteractableRepository.AddCollider(keyInt);
-            print("O jogador entrou no collider: " + collision.name + "::" + collision.transform.parent.name);
+            //print("O jogador entrou no collider: " + collision.name + "::" + collision.transform.parent.name);
 
             //Pega todos os métodos do objeto invadido, e printa os nomes
+            /*
             List<string> methods = keyInt.GetFunctions();
             print("Total de metodos do objeto: " + methods.Count);
             string methodsString = "Metodos: \n";
@@ -114,6 +115,13 @@ public class Player : MonoBehaviour
                 methodsString += (" " + i);
             }
             print(methodsString);
+            */
+        }
+
+        //Caso em que o objeto colidido seja interagivel
+        if(collision.tag == "interactible")
+        {
+            print("Saudações. Bem vindo a Eng'nma.");
         }
     }
 
@@ -126,8 +134,15 @@ public class Player : MonoBehaviour
             //Remove o scrKeyboardInteractable do parent do objeto do collider da lista de colliders em que o player entrou.
             //Após isso, é printado o nome do parent, e a quantidade de triggers que o player entrou
             Scr_KeyboardInteractableRepository.RemoveColllider(collision.transform.parent.GetComponent<Scr_KeyboardInteractable>());
-            print("O jogador saiu do collider: " + collision.name + "::" + collision.transform.parent.name);
+            //print("O jogador saiu do collider: " + collision.name + "::" + collision.transform.parent.name);
         }
+        /*
+        //Caso em que o objeto colidido seja interagivel
+        if(collision.tag == "Interaction_Collider")
+        {
+            print("Adeus e boa sorte.");
+        }
+        */
     }
 
 }
