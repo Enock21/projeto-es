@@ -11,6 +11,12 @@ Um protótipo foi feito em outro repositório para testar a viabilidade do desen
 
 [Prototipo inicial](https://github.com/Enock21/UnityCoopTest)
 
+## Fork do Projeto Real
+
+Fork do projeto com os testes criados pelo Randoop e as refatorações realizadas.
+
+[CK](https://github.com/viniciusrplima/ck)
+
 ## **Fichamentos (todos)**
 [Fichamentos](https://docs.google.com/document/d/1EWz8aOomydyGSFW8d42qT-_fGRShuomHu9sxieDauVI/edit?usp=sharing)
 
