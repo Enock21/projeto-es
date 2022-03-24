@@ -5,11 +5,11 @@ using UnityEngine;
 
 public class GameEvents : MonoBehaviour
 {
-    public static GameEvents current;
+    public static GameEvents instance;
 
     private void awake()
     {
-        current = this;
+        instance = this;
     }
 
     public event Action onNpcTriggerEnter;

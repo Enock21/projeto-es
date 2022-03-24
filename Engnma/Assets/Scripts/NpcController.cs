@@ -6,13 +6,13 @@ public class NpcController : MonoBehaviour
 {
     private void Start()
     {
-        GameEvents.current.onNpcTriggerEnter += OnNpcInteraction;
+        GameEvents.instance.onNpcTriggerEnter += OnNpcInteraction;
     }
 
     private void OnNpcInteraction()
     {
-        if (GameEvents.current != null){
-            Debug.Log(GameEvents.current);
+        if (GameEvents.instance != null){
+            Debug.Log(GameEvents.instance);
         }
     }
 }

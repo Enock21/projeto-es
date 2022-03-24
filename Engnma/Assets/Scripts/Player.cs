@@ -122,6 +122,7 @@ public class Player : MonoBehaviour
         if(collision.tag == "interactible")
         {
             print("Saudações. Bem vindo a Eng'nma.");
+            //GameEvents.instance.ShowText("Saudações. Bem vindo a Eng'nma.",20,Color.red,transform.position,Vector3.up*1,3.0f);
         }
     }
 
