@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - Keyboard_Collider
+  - interactible
   layers:
   - Default
   - TransparentFX
