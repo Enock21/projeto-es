@@ -38,6 +38,8 @@ Fork do projeto com os testes criados pelo Randoop e as refatorações realizada
 
 [Cronograma de Atividades do Projeto Real](https://drive.google.com/file/d/1K_1fAiEcP0F7SNk3_DfSSwPYxEK6gZVX/view?usp=sharing)
 
+[Cronograma do Atividades do Projeto Real (3a Entrega)](https://drive.google.com/file/d/1KtvDrce-OuAUyyzg3GA_4IeTfBwSuTo2/view?usp=sharing)
+
 [Distribuição de Temas do Fichamento](https://docs.google.com/spreadsheets/d/1uxlZhuqBmygBuW_ffA-c_Un_E0AB1q_GO3wtApXOUDs/edit?usp=sharing)
 
 [Template Oficial para o Fichamento](https://docs.google.com/document/d/1gs_pbLi1JwhKRhe90XPGxTZ2EF_FmMJb/edit?usp=sharing&ouid=102464683378953571049&rtpof=true&sd=true)
