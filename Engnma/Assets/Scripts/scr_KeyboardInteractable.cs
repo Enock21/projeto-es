@@ -43,4 +43,24 @@ public abstract class Scr_KeyboardInteractable:MonoBehaviour
 
     }
 
+    public void PrintFunctions()
+    {
+        List<string> functions = GetFunctions();
+        Scr_Messager.Self.AddMessage("Encontrado objeto: " + ClassName);
+        Scr_Messager.Self.AddMessage("com " + functions.Count + " Funções");
+        if(functions.Count > 0)
+        {
+            print(functions.ToString());
+            string functionsString = "";
+            for(int i = 0; i < functions.Count; i++)
+            {
+                functionsString += functions[i] + "()";
+                if (i < functions.Count - 1)
+                    functionsString += ", ";
+            }
+            Scr_Messager.Self.AddMessage(functionsString);
+        }
+        
+    }
+
 }
