@@ -8,7 +8,10 @@ public class Scr_KeyboardInteractableRepository:MonoBehaviour
     //Lista de gameobjects que o player entrou no collider trigger. 
     private static List<Scr_KeyboardInteractable> colliders = new();
 
-
+    private void Awake()
+    {
+        
+    }
     //Se o objeto não existe dentro da lista de colliders, então ele é adicionado
     public static void AddCollider(Scr_KeyboardInteractable obj)
     {

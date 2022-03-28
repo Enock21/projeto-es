@@ -2,11 +2,14 @@ using System.Collections;
 using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class Scr_Messager : MonoBehaviour
 {
     [SerializeField]
     private TextMeshProUGUI[] texts;
+    [SerializeField]
+    private Scrollbar scroll;
 
     private static Scr_Messager self;
 
@@ -24,14 +27,15 @@ public class Scr_Messager : MonoBehaviour
         Scr_Messager.self = this;
     }
 
+    private void Update()
+    {
+        
+    }
+
     public void AddMessage(string message)
     {
-        int length = texts.Length;
-        for (int i = 0; i < length - 1; i++)
-        {
-            texts[i].text = texts[i + 1].text;
-        }
-        texts[length - 1].text = message;
+        texts[0].text += "\n" + message;
+
     }
 
     public void CleanScreen()
@@ -41,5 +45,6 @@ public class Scr_Messager : MonoBehaviour
         {
             texts[i].text = "";
         }
+        scroll.value = 0;
     }
 }
