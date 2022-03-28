@@ -5,7 +5,7 @@ using UnityEngine;
 
 public class Scr_NPCInteractable : Scr_KeyboardInteractable
 {
-    private const string KEYBOARD = "KEYBOARD_";
+    
     private const string TURN = "TURN";
     private const string MOVE_X = "MOVEX";
     private const string MOVE_Y = "MOVEY";
@@ -51,14 +51,14 @@ public class Scr_NPCInteractable : Scr_KeyboardInteractable
     //Assim como a constante que armazena o nome da fun��o
     public override void CallFunction(string function)
     {
-        print("Fun��o digitada: " + function);
+        print("Função digitada: " + function);
         switch (function)
         {
             case KEYBOARD + TURN:
                 Keyboard_Turn();
                 break;
             default:
-                print("Fun��o n�o encontrada");
+                Scr_Messager.Self.AddMessage("NPC: " + Scr_Error.FUNCAO_NAO_ENCONTRADA);
                 break;
         }
            
@@ -81,9 +81,11 @@ public class Scr_NPCInteractable : Scr_KeyboardInteractable
                 //Caso contr�rio, exibe uma mensagem de erro de convers�o
                 parsed = int.TryParse(parameter, out parsedValue); 
                 if (parsed)
-                    Keyboard_MoveX(parsedValue);
+                    {
+                        Keyboard_MoveX(parsedValue);
+                    }
                 else
-                    Scr_ErrorMessage.ErrorMessage.ShowNewErrorMessage(Scr_Error.PARAMETRO_NOT_INT);
+                    Scr_Messager.Self.AddMessage(Scr_Error.PARAMETRO_NOT_INT);
                 break;
             case KEYBOARD + MOVE_Y:
                 //Tenta converter de string para inteiro. Caso consiga,
@@ -91,12 +93,15 @@ public class Scr_NPCInteractable : Scr_KeyboardInteractable
                 //Caso contr�rio, exibe uma mensagem de erro de convers�o
                 parsed = int.TryParse(parameter, out parsedValue); //Converte de string para int
                 if (parsed)
+                {
                     Keyboard_MoveY(parsedValue);
+                }
+                    
                 else
-                    Scr_ErrorMessage.ErrorMessage.ShowNewErrorMessage(Scr_Error.PARAMETRO_NOT_INT);
+                    Scr_Messager.Self.AddMessage(Scr_Error.PARAMETRO_NOT_INT);
                 break;
             default:
-                print("Fun��o n�o encontrada");
+                Scr_Messager.Self.AddMessage("NPC: " + Scr_Error.FUNCAO_NAO_ENCONTRADA);
                 break;
         }
     }

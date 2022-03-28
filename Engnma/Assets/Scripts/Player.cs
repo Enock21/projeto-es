@@ -63,36 +63,6 @@ public class Player : MonoBehaviour
         rigidbody.velocity = (moveDelta * speedMove);
     }
 
-
-    //Codigo abaixo se tornou obsoleto, pois o rigidbody implemente essas funções
-
-    /*
-    //Função que implementa o sistema de colisão. Impedirá o personagem de se mover quando este entrar em contato com uma caixa de colisão que se encontra em ao menos uma das layers especificadas.
-    public void Colisao()
-    {
-        //ATENÇÃO! Lembrar de desabilitar a opção "Querries Start in Colliders" em Edit > Project Settings > Physics2D. Caso esteja habilitado o player irá colidir consigo próprio, e portanto não irá se mover
-
-        //Invoca a caixa de colisão do player a cada frame. Indicará se houve ou não colisão no eixo y. Se a caixa retornar null, o personagem pode se mover na direção apontada. Caso contrário, não.
-        hit = Physics2D.BoxCast(transform.position, boxCollider.size, 0, new Vector2(0,moveDelta.y), Mathf.Abs(moveDelta.y * Time.deltaTime * speedMove), LayerMask.GetMask("Actor", "Blocking"));
-
-        //Faz o sprite se mover (apenas no eixo y). Time.deltaTime serve para atualizar a posição no eixo com base no tempo que se passou desde o último frame até o atual. Lembrar que este tempo varia.
-        if(hit.collider == null)
-        {
-            transform.Translate(0, moveDelta.y * Time.deltaTime * speedMove, 0);
-        }
-
-
-        //Invoca a caixa de colisão do player a cada frame. Indicará se houve ou não colisão no eixo x. Se a caixa retornar null, o personagem pode se mover na direção apontada. Caso contrário, não.
-        hit = Physics2D.BoxCast(transform.position, boxCollider.size, 0, new Vector2(moveDelta.x,0), Mathf.Abs(moveDelta.x * Time.deltaTime * speedMove), LayerMask.GetMask("Actor", "Blocking"));
-
-        //Faz o sprite se mover (apenas no eixo x). Time.deltaTime serve para atualizar a posição no eixo com base no tempo que se passou desde o último frame até o atual. Lembrar que este tempo varia.
-        if(hit.collider == null)
-        {
-            transform.Translate(moveDelta.x * Time.deltaTime * speedMove, 0, 0);
-        }
-        
-    }*/
-
     //Quando o jogador entra em um collider setado como trigger, é chamado essa função com o collider do objeto adentrado passado como parametro
     private void OnTriggerEnter2D(Collider2D collision)
     {
@@ -103,19 +73,9 @@ public class Player : MonoBehaviour
             //Adiciona o scrKeyboardInteractable do parent do objeto do collider para a lista de colliders em que o player invadiu.
             //Após isso, é printado o nome do collider assim como o nome do parent
             Scr_KeyboardInteractableRepository.AddCollider(keyInt);
-            //print("O jogador entrou no collider: " + collision.name + "::" + collision.transform.parent.name);
 
-            //Pega todos os métodos do objeto invadido, e printa os nomes
-            /*
-            List<string> methods = keyInt.GetFunctions();
-            print("Total de metodos do objeto: " + methods.Count);
-            string methodsString = "Metodos: \n";
-            foreach (string i in methods)
-            {
-                methodsString += (" " + i);
-            }
-            print(methodsString);
-            */
+            //Printa o nome do objeto adentrado, assim como as funções que ele contem
+            keyInt.PrintFunctions();
         }
 
         //Caso em que o objeto colidido seja interagivel
@@ -134,16 +94,10 @@ public class Player : MonoBehaviour
         {
             //Remove o scrKeyboardInteractable do parent do objeto do collider da lista de colliders em que o player entrou.
             //Após isso, é printado o nome do parent, e a quantidade de triggers que o player entrou
-            Scr_KeyboardInteractableRepository.RemoveColllider(collision.transform.parent.GetComponent<Scr_KeyboardInteractable>());
-            //print("O jogador saiu do collider: " + collision.name + "::" + collision.transform.parent.name);
+
+            Scr_KeyboardInteractable obj = Scr_KeyboardInteractableRepository.RemoveColllider(collision.transform.parent.GetComponent<Scr_KeyboardInteractable>());
+            obj.PrintExit();
         }
-        /*
-        //Caso em que o objeto colidido seja interagivel
-        if(collision.tag == "Interaction_Collider")
-        {
-            print("Adeus e boa sorte.");
-        }
-        */
     }
 
 }

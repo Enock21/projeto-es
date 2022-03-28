@@ -45,10 +45,11 @@ public class Scr_Keyboard : MonoBehaviour
     void InputFunction()
     { 
         string text = keyboard.text;
+        Scr_Messager.Self.AddMessage(text);
         if (CheckText(text))
             Scr_InputController.NewInput(text);
         else if (text != "")
-            Scr_ErrorMessage.ErrorMessage.ShowNewErrorMessage(Scr_Error.COMANDO_INVALIDO);
+            Scr_Messager.Self.AddMessage(Scr_Error.COMANDO_INVALIDO);
         keyboard.text = "";
         return;
         

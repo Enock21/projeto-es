@@ -60,7 +60,7 @@ public class Scr_ErrorMessage : MonoBehaviour
 
     //Recebe uma nova mensagem para ser exibida. Após isso,
     //Ativa o gameObject da mensagem pela quantidade de tempo definida no timeError, mostrando o erro
-    public void ShowNewErrorMessage(string message)
+    public void ShowNewErrorMessages(string message)
     {
         actualTimerError = timeError;
         hasErrorToShow = true;

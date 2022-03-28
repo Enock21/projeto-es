@@ -19,7 +19,6 @@ public class Scr_InputController : MonoBehaviour
     //para chamar a função digitada no teclado virtual.
     public static void NewInput(string input)
     {
-        print(input);
         string[] inputWord = input.ToUpper().Split("."); // Toda função deve ser enviada com as letras em maiusculo, pois, nas classes do keyboard interactable
                                                          // as constantes que guardam o nome das classes armazenam o nome em maíusculo
         string className = inputWord[0];
@@ -39,12 +38,12 @@ public class Scr_InputController : MonoBehaviour
     {
         if (obj == null)
         {
-            Scr_ErrorMessage.ErrorMessage.ShowNewErrorMessage(Scr_Error.OBJETO_NAO_ENCONTRADO);
+            Scr_Messager.Self.AddMessage(Scr_Error.OBJETO_NAO_ENCONTRADO);
             return false;
         }
         if (function[0] == null)
         {
-            Scr_ErrorMessage.ErrorMessage.ShowNewErrorMessage(Scr_Error.FUNCAO_NAO_ENCONTRADA);
+            Scr_Messager.Self.AddMessage(Scr_Error.FUNCAO_NAO_ENCONTRADA);
             return false;
         }        
         return true;
