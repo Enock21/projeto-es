@@ -5,7 +5,7 @@ using UnityEngine;
 
 public abstract class Scr_KeyboardInteractable:MonoBehaviour
 {
-
+    protected const string KEYBOARD = "KEYBOARD_";
 
     [SerializeField]
     protected string className; // Vai servir para identificar a classe digitada no teclado. Cada classe precisa ter um className unico por scene
@@ -47,7 +47,7 @@ public abstract class Scr_KeyboardInteractable:MonoBehaviour
     {
         List<string> functions = GetFunctions();
 
-        string msg = "Encontrado objeto: " + ClassName + " com " + functions.Count + " Funções: ";
+        string msg = "<b>Encontrado objeto</b>: " + ClassName + " com " + functions.Count + " Funções: ";
         if(functions.Count > 0)
         {
             print(functions.ToString());
@@ -55,14 +55,18 @@ public abstract class Scr_KeyboardInteractable:MonoBehaviour
             for(int i = 0; i < functions.Count; i++)
             {
                 string[] function = functions[i].Split('_');
-                print("Index: " + function[1]);
-                functionsString += function[1];
+                functionsString += function[1] + "()";
                 if (i < functions.Count - 1)
                     functionsString += ", ";
             }
             msg += functionsString;
         }
         Scr_Messager.Self.AddMessage(msg);
+    }
+
+    public void PrintExit()
+    {
+        Scr_Messager.Self.AddMessage("Você saiu do alcance do objeto: <b>" + ClassName + "</b>");
     }
 
 }

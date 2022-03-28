@@ -8,39 +8,44 @@ public class Scr_KeyboardInteractableRepository:MonoBehaviour
     //Lista de gameobjects que o player entrou no collider trigger. 
     private static List<Scr_KeyboardInteractable> colliders = new();
 
-    private void Awake()
+    private void Start()
     {
-        
     }
+
+
     //Se o objeto não existe dentro da lista de colliders, então ele é adicionado
     public static void AddCollider(Scr_KeyboardInteractable obj)
     {
-
+        print(colliders.Count);
         if (!Contains(obj.ClassName))
             colliders.Add(obj);
-
+        print(colliders.Count);
     }
 
     //Remove o collider que possui o mesmo className do Scr_KeyboardInteractable passado como parametro
-    public static void RemoveColllider(Scr_KeyboardInteractable obj)
+    public static Scr_KeyboardInteractable RemoveColllider(Scr_KeyboardInteractable obj)
     {
         bool found = false;
         int i = 0;
         string className = obj.ClassName;
-        while(!found && i < colliders.Count)
+        Scr_KeyboardInteractable retorno = null;
+        while (!found && i < colliders.Count)
         {
             if(colliders[i].ClassName == className)
             {
                 colliders.Remove(obj);
+                retorno = obj;
                 found = true;
             }
             i++;
         }
+        return retorno;
     }
 
     //Conta quantos elementos existem dentro da lista
     public static int Count()
     {
+        
         return colliders.Count;
     }
 
@@ -57,6 +62,7 @@ public class Scr_KeyboardInteractableRepository:MonoBehaviour
             }
             i++;
         }
+
         return retorno;
     }
 

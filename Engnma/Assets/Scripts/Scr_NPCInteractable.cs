@@ -5,7 +5,7 @@ using UnityEngine;
 
 public class Scr_NPCInteractable : Scr_KeyboardInteractable
 {
-    private const string KEYBOARD = "KEYBOARD_";
+    
     private const string TURN = "TURN";
     private const string MOVE_X = "MOVEX";
     private const string MOVE_Y = "MOVEY";
@@ -56,7 +56,6 @@ public class Scr_NPCInteractable : Scr_KeyboardInteractable
         {
             case KEYBOARD + TURN:
                 Keyboard_Turn();
-                Scr_Messager.Self.AddMessage("Função aceita: Turn()");
                 break;
             default:
                 Scr_Messager.Self.AddMessage("NPC: " + Scr_Error.FUNCAO_NAO_ENCONTRADA);
@@ -83,7 +82,6 @@ public class Scr_NPCInteractable : Scr_KeyboardInteractable
                 parsed = int.TryParse(parameter, out parsedValue); 
                 if (parsed)
                     {
-                        Scr_Messager.Self.AddMessage(("Função aceita: MoveX(" + parsed + ")") );
                         Keyboard_MoveX(parsedValue);
                     }
                 else
@@ -96,7 +94,6 @@ public class Scr_NPCInteractable : Scr_KeyboardInteractable
                 parsed = int.TryParse(parameter, out parsedValue); //Converte de string para int
                 if (parsed)
                 {
-                    Scr_Messager.Self.AddMessage(("Função aceita: MoveY(" + parsed + ")"));
                     Keyboard_MoveY(parsedValue);
                 }
                     

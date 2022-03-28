@@ -94,16 +94,10 @@ public class Player : MonoBehaviour
         {
             //Remove o scrKeyboardInteractable do parent do objeto do collider da lista de colliders em que o player entrou.
             //Após isso, é printado o nome do parent, e a quantidade de triggers que o player entrou
-            Scr_KeyboardInteractableRepository.RemoveColllider(collision.transform.parent.GetComponent<Scr_KeyboardInteractable>());
-            //print("O jogador saiu do collider: " + collision.name + "::" + collision.transform.parent.name);
+
+            Scr_KeyboardInteractable obj = Scr_KeyboardInteractableRepository.RemoveColllider(collision.transform.parent.GetComponent<Scr_KeyboardInteractable>());
+            obj.PrintExit();
         }
-        /*
-        //Caso em que o objeto colidido seja interagivel
-        if(collision.tag == "Interaction_Collider")
-        {
-            print("Adeus e boa sorte.");
-        }
-        */
     }
 
 }
